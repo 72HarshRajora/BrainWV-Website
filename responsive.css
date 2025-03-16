@@ -444,12 +444,12 @@
     }
 
     .services .service-list .service-item a .service-item-right h2 {
-        font-size: 20px;
-        height: 20px;
+        font-size: 14px;
+        height: 18px;
     }
 
     .services .service-list .service-item a .service-item-right p {
-        font-size: 10px;
+        font-size: 8px;
         line-height: 12px;
     }
 
